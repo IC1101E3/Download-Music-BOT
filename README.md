@@ -9,7 +9,8 @@ There are still some things that need improvement! Although it can be run succes
 Run
 
 Clone this repository: `git clone https://github.com/IC1101E3/Download-Music-BOT'
-Download the dependencies: `pip install -r requirements.txt`
+Download the dependencies: 
+`pip install -r requirements.txt`
 Download the FFmpeg library
 Get started in VS Code or an online IDE
 😎 Enjoy!
